@@ -1,0 +1,30 @@
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border: 2px solid;
+}
+label {
+  font-weight: bold;
+}
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 300px;
+}
+input {
+  border: 2px solid;
+  text-align: center;
+  font-weight: bold;
+}
+p {
+  font-weight: bold;
+  font-size: larger;
+}
